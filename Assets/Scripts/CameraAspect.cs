@@ -3,6 +3,6 @@ using System.Collections;
 
 public class CameraAspect : MonoBehaviour {
 	void Awake () {
-		camera.orthographicSize = Screen.height / 2;
+		//camera.orthographicSize = Screen.height / 2;
 	}
 }
